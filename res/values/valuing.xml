@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="empty">#FFF</color>
+    <color name="player1">#F00</color>
+    <color name="player2">#00F</color>
+    <color name="triangle">#f0f</color>
+</resources>

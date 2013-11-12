@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tic-Tacking</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="edit_message">Enter a Message</string>
+    <string name="new_game">New Game</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_main_game">DisplayMessageActivity</string>
+    <string name="button_0">null</string>
+    <string name="button_1">null</string>
+    <string name="button_2">null</string>
+    <string name="button_3">null</string>
+    <string name="button_4">null</string>
+    <string name="button_5">null</string>
+    <string name="button_6">null</string>
+    <string name="button_7">null</string>
+    <string name="button_8">null</string>
+    <string name="button_9">null</string>
+    <string name="button_10">null</string>
+    <string name="button_11">null</string>
+    <string name="button_12">null</string>
+    <string name="button_13">null</string>
+    <string name="button_14">null</string>
+    <string name="button_15">null</string>
+    <string name="const_triang">A Triangle!</string>
+    <string name="current">Your Piece</string>
+    <string name="text">Debug</string>
+    <string name="title_activity_game_instructions">GameInstructions</string>
+    <string name="rules">Instructions</string>
+    <string name="instruct">Rules:</string>
+    <string name="aim">The aim of the game is to win by getting a four-in-a-row consisting of you token or a triangle.</string>
+    <string name="gameplay">The game plays as follows: players alternate turns and place a token which is either their own or a triangle which is wild.</string>
+    <string name="constraints">A player may not place his own token consecutively, however one may put as many triangles as he wants down.</string>
+    <string name="title_activity_bnn">Bnn</string>
+
+</resources>
